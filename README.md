@@ -1,7 +1,6 @@
 
   Hey 👋, I'm Kavinda Wijeshinghe! </h1>
 
-[![](https://visitcount.itsvg.in/api?id=senethmendis&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 👤 More About Me:
 
 - 🔭 &nbsp; I’m currently Studying in **SLIIT, Undergraduate**
